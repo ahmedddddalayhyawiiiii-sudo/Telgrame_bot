@@ -1,0 +1,6 @@
+bot.db
+*.sqlite3
+__pycache__/
+*.pyc
+video_temp.*
+audio_temp.*
