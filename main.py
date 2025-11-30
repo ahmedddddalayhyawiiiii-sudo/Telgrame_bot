@@ -46,7 +46,7 @@ EXTRA_BLOCKED_DOMAINS: set[str] = set()
 BANNED_USERS: set[int] = set()
 
 # عدّل هذا لِـ User ID تبعك في تيليجرام
-ADMIN_IDS = {123456789}
+ADMIN_IDS = {1601160612}
 
 # حالات المستخدمين (لاختيار النوع والجودة)
 USER_STATE: dict[int, dict] = {}
